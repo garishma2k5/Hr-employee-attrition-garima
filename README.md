@@ -11,6 +11,7 @@ This project was created as a part of the INSAID capstone to help HR Advisories 
 In this project the outcome is a classification where we judge if the employee is likely to quit or not.
 ![enter image description here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeG8eWmDqdb_KLhmby6cRg-8f5HdSxH7ZMmMs3pgwueA&s)
 To check out my notebook, please click [here](https://github.com/garishma2k5/Hr-employee-attrition-garima/blob/main/archive.zip)
+
 This is the website for INSAID - 
 ---Hi
 ---What is this
